@@ -6,14 +6,14 @@ Estes corpora e modelos poden ser descargados, integrados ou mellorados por terc
 
 ## Repositorios 
 
-A partir desta páxina do Proxecto Nós pódese acceder a diferentes repositorios:
+A partir desta páxina do Proxecto Nós podes acceder a diferentes repositorios:
 + corpus: onde están incluídos todos os corpora monolingues e multilingues de fala e texto para galego.  
-+ languagemodels: onde están incluídos todos os modelos lingüísticos a seren descargados para distintas aplicacións de procesamento de linguaxe natural. 
-+ demos: aquí pódese acceder a páxinas web de demostración dos mellores modelos desenvolvidos polo equipo do Proxecto Nós.
++ languagemodels: onde están incluídos todos os modelos lingüísticos a seren descargados para distintas aplicacións de procesamento da linguaxe natural. 
++ demos: aquí podes acceder a páxinas web de demostración dos mellores modelos desenvolvidos polo equipo do Proxecto Nós.
 
 ## Licenzas de corpus e modelos da linguaxe
 
-Por último, os corpus poden ser descargados baixo licenzas: Creative Commons 4.0
+Os corpus poden ser descargados baixo licenzas: Creative Commons 4.0
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Esta obra ten unha licenza Creative Commons <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Atribución 4.0 Internacional</a>.
 
