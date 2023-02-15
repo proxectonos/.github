@@ -1,8 +1,10 @@
 ## Proxecto Nós
 
-👋 O Proxecto Nós é un proxecto de intelixencia artificial aplicado ao galego, cuxo principal obxectivo é facilitar que persoas, institucións, organizacións e empresas podan ter acceso libre a diferentes corpus e modelos de linguaxe en galego. Con estes corpus e modelos poderán ser realizadas diferentes tarefas de procesamento da linguaxe natural como por exemplo a tradución automática, recoñecemento da fala ou a síntese da fala.
+👋 O Proxecto Nós é un proxecto de intelixencia artificial aplicado ao galego, cuxo principal obxectivo é facilitar que persoas, institucións, organizacións e empresas podan ter acceso libre a diferentes corpus e modelos de linguaxe intelixentes en galego. 
 
-Estes corpus e modelos poden ser descargados e utilizados directamente, integrados noutras plataformas ou mellorados baixo dous tipos de licenzas: Creative Commons para os corpus e GPL para os modelos (software).
+Estes corpus e modelos que poden ser descargados e utilizados directamente poderán ser utilizados directamente, integrados ou mellorados en diferentes tarefas de procesamento da linguaxe natural como por exemplo a tradución automática, recoñecemento da fala ou a síntese da fala.
+
+Por último, modelos poden ser descargados baixo dous tipos de licenzas: Creative Commons para os corpus e GPL para os modelos (software).
 
 Nesta páxina do github poderás acceder a estes repositorios:
 1. Corpora: neste están incluídos todos os corpus monolingües de multilingües de voz e texto para galego.
