@@ -1,4 +1,4 @@
-## Hi there 👋
+## Proxecto Nós 👋
 
 O Proxecto Nós é un proxecto de intelixencia artificial aplicado ao galego cuxo principal obxectivo é facilitar que persoas, institucións, organizacións e empresas podan ter acceso libre a diferentes corpus e modelos de linguaxe en galego.
 A partir destes corpus e modelos, quen quixer utilizalos poderá realizar diferentes tarefas de procesamento da linguaxe natural como por exemplo a tradución automática, recoñecemento da fala ou a síntese da fala.
