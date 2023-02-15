@@ -1,15 +1,15 @@
 ## Proxecto Nós
 
-👋 O Proxecto Nós é un proxecto de Intelixencia Artificial aplicado ao galego, cuxo principal obxectivo é o desenvolvemento de corpus e modelos da linguaxe libres para o procesamento da linguaxe natural do galego.  
+👋 O Proxecto Nós é un proxecto de Intelixencia Artificial focado para o galego, cuxo principal obxectivo é o desenvolvemento de corpora lingüísticos e modelos libres para o procesamento da linguaxe natural en galego.  
 
-Estes corpus e modelos poden ser descargados, integrados ou mellorados para o seu uso en diferentes tarefas de procesamento da linguaxe natural como por exemplo a tradución automática, o recoñecemento ou a síntese da fala.
+Estes corpora e modelos poden ser descargados, integrados ou mellorados por terceiros para a súa utilización en distintas tarefas de procesamento de linguaxe natural, tales como tradución automática, recoñecemento ou síntese da fala.
 
 ## Repositorios 
 
-Nesta páxina do github poderás acceder a estes repositorios:
-1. Corpora: neste están incluídos todos os corpus monolingües de multilingües de voz e texto para galego. Poderás 
-2. Languagemodels: neste están incluídos todos os modelos da linguaxe que poden ser descargados e utilizados nas túas aplicacións de procesamento da linguaxe natural. 
-3. Demos: Aqui poderás acceder ás páxinas web de demostración dos modelos mellores realizados dentro do Proxecto Nós.
+A partir desta páxina do Proxecto Nós pódese acceder a diferentes repositorios:
++ corpus: onde están incluídos todos os corpora monolingues e multilingues de fala e texto para galego.  
++ languagemodels: onde están incluídos todos os modelos lingüísticos a seren descargados para distintas aplicacións de procesamento de linguaxe natural. 
++ demos: aquí pódese acceder a páxinas web de demostración dos mellores modelos desenvolvidos polo equipo do Proxecto Nós.
 
 ## Licenzas de corpus e modelos da linguaxe
 
@@ -25,7 +25,7 @@ href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License v
 
 ## Contribución ao proxecto - como podes envolverte na comunidade?
 
-Se quixeres participar da mellora dos corpora de voz e texto, ou dos modelos que estamos desenvolvendo, só tes que pedir ser incluído na nosa comunidade e entrar en contacto co cada un dos responsábeis dos proxectos de voz e texto que están a ser desenvolvidos.
+Se quixeres participar para a mellora dos corpora de voz e texto, ou dos modelos que estamos desenvolvendo, só tes que pedir ser incluído na nosa comunidade e entrar en contacto con cada un/unha dos responsábeis dos proxectos de voz e texto que están a ser desenvolvidos. Es sempre benvido/a!
 
 ## Recursos útiles do Proxecto Nós
 
