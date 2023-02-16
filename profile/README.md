@@ -17,11 +17,11 @@ Os corpus poden ser descargados baixo licenzas: Creative Commons 4.0
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Esta obra ten unha licenza Creative Commons <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Atribución 4.0 Internacional</a>.
 
-E os modelos da linguaxe poden ser descargados baixo licenzas: GPL 4.0
+E os modelos da linguaxe poden ser descargados baixo licenzas: MIT
 
-<a rel="license" data-spdx="GPL-3.0-or-later" href="https://www.gnu.org/licenses/gpl3.0.en.html"><img alt="GNU" src="https://www.gnu.org/graphics/gplv3-or-later-sm.png" /></a><br
-/>This work is licensed under a <a rel="license" data-spdx="GPL-3.0-or-later"
-href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License v3.0 or later</a>.
+<a rel="license" data-spdx="MIT" href="https://opensource.org/license/mit/"><img alt="MIT" src="https://en.wikipedia.org/wiki/MIT_License#/media/File:MIT_logo.svg" /></a><br
+/>Esta obra ten unha licenza MIT <a rel="license" data-spdx="MIT"
+href="https://www.gnu.org/licenses/gpl-3.0.en.html">MIT License</a>.
 
 ## Contribución ao proxecto - como podes envolverte na comunidade?
 
