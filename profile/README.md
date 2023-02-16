@@ -17,9 +17,7 @@ Os corpus poden ser descargados baixo licenzas: Creative Commons 4.0
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Esta obra ten unha licenza Creative Commons <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Atribución 4.0 Internacional</a>.
 
-E os modelos da linguaxe poden ser descargados baixo licenzas MIT: 
-![MIT]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://en.wikipedia.org/wiki/MIT_License#/media/File:MIT_logo.svg) "MIT License")
-
+E os modelos da linguaxe poden ser descargados baixo licenzas [MIT](https://fossa.com/blog/open-source-licenses-101-mit-license/).
 ## Contribución ao proxecto - como podes envolverte na comunidade?
 
 Se quixeres participar para a mellora dos corpora de voz e texto, ou dos modelos que estamos desenvolvendo, só tes que pedir ser incluído na nosa comunidade e entrar en contacto con cada un/unha dos responsábeis dos proxectos de voz e texto que están a ser desenvolvidos. Es sempre benvido/a!
