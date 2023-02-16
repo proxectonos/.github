@@ -19,9 +19,7 @@ Os corpus poden ser descargados baixo licenzas: Creative Commons 4.0
 
 E os modelos da linguaxe poden ser descargados baixo licenzas: MIT
 
-<a rel="license" data-spdx="MIT" href="https://opensource.org/license/mit/"><img alt="MIT" src="https://en.wikipedia.org/wiki/MIT_License#/media/File:MIT_logo.svg" /></a><br
-/>Esta obra ten unha licenza MIT <a rel="license" data-spdx="MIT"
-href="https://www.gnu.org/licenses/gpl-3.0.en.html">MIT License</a>.
+<a rel="license" data-spdx="MIT" href="https://opensource.org/license/mit/"><img alt="MIT" style="border-width:0" src="https://en.wikipedia.org/wiki/MIT_License#/media/File:MIT_logo.svg" /></a><br />Esta obra ten unha licenza MIT <a rel="license" href="https://www.gnu.org/licenses/gpl-3.0.en.html">MIT License</a>.
 
 ## Contribución ao proxecto - como podes envolverte na comunidade?
 
