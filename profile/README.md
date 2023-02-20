@@ -8,7 +8,7 @@ Os recursos desenvolvidos en Nós son de libre acceso por terceiros, o que vai p
 
 O proxecto encádrase dentro das estratexias galega, española, e europea orientadas ao desenvolvemento de tecnoloxías, ferramentas e aplicacións para a proxección e uso das linguas nos ámbitos de aplicación da IA.
 
-O Proxecto Nós é un proxecto da [Xunta de Galicia](https://www.xunta.gal/portada) cuxa execución foi encomendada á Universidade de Santiago de Compostela, a través de dúas entidades punteiras de investigación en Intelixencia Artificial e Tecnoloxías da linguaxe: o ILG ([Instituto da Lingua Galega](https://ilg.usc.es/)) e o [CiTIUS](https://citius.gal/gl/) (Centro Singular de Investigación en Tecnoloxías Intelixentes). 
+O Proxecto Nós é un proxecto da [Xunta de Galicia](https://www.xunta.gal/portada) cuxa execución foi encomendada á Universidade de Santiago de Compostela, a través de dúas entidades punteiras de investigación en Intelixencia Artificial e Tecnoloxías da linguaxe: o [ILG](https://ilg.usc.es/) (Instituto da Lingua Galega) e o [CiTIUS](https://citius.gal/gl/) (Centro Singular de Investigación en Tecnoloxías Intelixentes). 
 
 Por último, a adopción dentro do Proxecto Nós de licenzas libres permitirá que recursos, ferramentas e ata casos de uso poidan ser mantidos pola comunidade de software libre e tamén polas empresas, o que permitirá que a comunidade galego-falante e galego-escribente poida realizar a súa vida diaria na sociedade dixital do século XXI.
 
