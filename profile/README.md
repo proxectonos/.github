@@ -1,8 +1,16 @@
-## Proxecto Nós
+## Proxecto Nós: o galego na sociedade e na economía da Intelixencia Artificial
 
-👋 O Proxecto Nós é un proxecto de Intelixencia Artificial focado para o galego, cuxo principal obxectivo é o desenvolvemento de corpora lingüísticos e modelos libres para o procesamento da linguaxe natural en galego.  
+👋 O Proxecto Nós vai xerar os recursos necesarios para colocar o galego na vangarda das Tecnoloxías Intelixentes, nomeadamente naquelas áreas relacionadas coas Tecnoloxías Lingüísticas e, de modo xeral, na sociedade e economía da Intelixencia Artificial. 
 
-Estes corpora e modelos poden ser descargados, integrados ou mellorados por terceiros para a súa utilización en distintas tarefas de procesamento de linguaxe natural, tales como tradución automática, recoñecemento ou síntese da fala.
+Dentro do proxecto vanse compilar recursos e desenvolver ferramentas de alta calidade para o procesamento automático do galego, tanto oral como escrito. Ademais, produciranse demostradores de carácter xeral que permitirán mostrar as posibilidades dos ditos recursos e desenvolveranse casos de uso de alto impacto socioeconómico en diferentes contextos.
+
+Os recursos desenvolvidos en Nós son de libre acceso por terceiros, o que vai permitir e facilitar o desenvolvemento de produtos e servizos finais baseados na lingua galega, por parte das empresas, institucións e organizacións, tanto públicas como privadas, que así o desexaren.
+
+O proxecto encádrase dentro das estratexias galega, española, e europea orientadas ao desenvolvemento de tecnoloxías, ferramentas e aplicacións para a proxección e uso das linguas nos ámbitos de aplicación da IA.
+
+O Proxecto Nós é un proxecto da Xunta de Galicia cuxa execución foi encomendada á Universidade de Santiago de Compostela, a través de dúas entidades punteiras de investigación en Intelixencia Artificial e Tecnoloxías da linguaxe: o ILG (Instituto da Lingua Galega) e o CiTIUS (Centro Singular de Investigación en Tecnoloxías Intelixentes). 
+
+Por último, a adopción dentro do Proxecto Nós de licenzas libres permitirá que recursos, ferramentas e ata casos de uso poidan ser mantidos pola comunidade de software libre e tamén polas empresas, o que permitirá que a comunidade galego-falante e galego-escribente poida realizar a súa vida diaria na sociedade dixital do século XXI.
 
 ## Repositorios 
 
