@@ -1,31 +1,31 @@
-## Proxecto Nós: o galego na sociedade e na economía da Intelixencia Artificial
+## The Nós project: Galician in the society and economy of Artificial Intelligence
 
-👋 O [Proxecto Nós](https://nos.gal/) vai xerar os recursos necesarios para colocar o galego na vangarda das Tecnoloxías Intelixentes, nomeadamente naquelas áreas relacionadas coas Tecnoloxías Lingüísticas e, de modo xeral, na sociedade e economía da Intelixencia Artificial. O Proxecto Nós é un proxecto da [Xunta de Galicia](https://www.xunta.gal/portada) cuxa execución foi encomendada á Universidade de Santiago de Compostela, a través de dúas entidades punteiras de investigación en Intelixencia Artificial e Tecnoloxías da linguaxe: o [ILG](https://ilg.usc.es/) (Instituto da Lingua Galega) e o [CiTIUS](https://citius.gal/gl/) (Centro Singular de Investigación en Tecnoloxías Intelixentes). 
+👋 The [Nós project](https://nos.gal/) aims to create the necessary resources to place Galician at the forefront of Intelligent Technologies, particularly technologies in those areas related to Language Technology and, more generally, in the society and economy of Artificial Intelligence. The Nós project is a project from the [Xunta de Galicia](https://www.xunta.gal/portada) whose execution was entrusted to the University of Santiago de Compostela through two leading research institutions in Artificial Intelligence and Language Technologies, [ILG](https://ilg.usc.es/) (Instituto da Lingua Galega, literally in English “the Galician Language Institute”) and [CiTIUS](https://citius.gal/gl/) (Centro Singular de Investigación en Tecnoloxías Intelixentes, literally in English “Singular Research Centre on Intelligent Technologies”).
 
-Dentro do proxecto vanse compilar recursos e desenvolver ferramentas de alta calidade para o procesamento automático do galego, tanto oral como escrito. Ademais, produciranse demostradores de carácter xeral que permitirán mostrar as posibilidades dos ditos recursos e desenvolveranse casos de uso de alto impacto socioeconómico en diferentes contextos. O proxecto encádrase dentro das estratexias galega, española, e europea orientadas ao desenvolvemento de tecnoloxías, ferramentas e aplicacións para a proxección e uso das linguas nos ámbitos de aplicación da IA.
+Within the project, high quality resources will be compiled, and top-quality tools will be developed for the automatic processing of oral and written Galician. In addition, general demonstrators will be produced to showcase the potential of these resources and use cases of high socioeconomic impact will be developed in different contexts. The project is embedded within the Galician, Spanish and European strategies aimed at developing technologies, tools and applications for the impact and use of languages in AI application areas.
 
-Os recursos desenvolvidos en Nós son de libre acceso por terceiros, o que vai permitir e facilitar o desenvolvemento de produtos e servizos finais baseados na lingua galega, por parte das empresas, institucións e organizacións, tanto públicas como privadas, que así o desexaren. Por último, a adopción dentro do Proxecto Nós de licenzas libres permitirá que recursos, ferramentas e ata casos de uso poidan ser mantidos pola comunidade de software libre e tamén polas empresas, o que permitirá que a comunidade galego-falante e galego-escribente poida realizar a súa vida diaria na sociedade dixital do século XXI.
+The resources developed by Nós are freely accessible by third parties. Thus, this will allow and support the development of Galician-based final products and services by enterprises, institutions and organizations, both public and private. Finally, the adoption of free licenses within the project will allow resources, tools and even use cases to be maintained by the open-source community and by enterprises. Thus, this will enable the Galician speaking and writing community to carry out their lives in the digital society of the 21st century.
 
-## Repositorios 
+## Repositories
 
-A partir desta páxina do Proxecto Nós podes acceder a diferentes repositorios:
-+ [corpus](https://github.com/proxectonos/corpora): onde están incluídos todos os corpora monolingues e multilingues de fala e texto para galego.
-+ [language-models](https://github.com/proxectonos/language-models): onde están incluídos todos os modelos lingüísticos a seren descargados para distintas aplicacións de procesamento da linguaxe natural. 
-+ [demos](https://github.com/proxectonos/demos): aquí podes acceder a páxinas web de demostración dos mellores modelos desenvolvidos polo equipo do Proxecto Nós.
+Through this website of the Nós project you can access different repositories:
++ [corpus](https://github.com/proxectonos/corpora): where all text and speech corpora in Galician, both monolingual and multilingual, are included.
++ [language-models](https://github.com/proxectonos/language-models): where all downloadable language models for different Natural Language Processing applications are included.
++ [demos](https://github.com/proxectonos/demos): here you can find websites with the demos of the best models developed by the Nós project team.
 
-## Licenzas de corpus e modelos da linguaxe
+## Corpora and language models licenses
 
-Os corpus poden ser descargados baixo licenzas: [Creative Commons 4.0](http://creativecommons.org/licenses/by/4.0) <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+Corpora can be downloaded under licenses: [Creative Commons 4.0](http://creativecommons.org/licenses/by/4.0) <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 
-E os modelos da linguaxe poden ser descargados baixo licenzas [MIT](https://fossa.com/blog/open-source-licenses-101-mit-license/)
+Language models can be downloaded under [MIT](https://fossa.com/blog/open-source-licenses-101-mit-license/) licenses.
 
-## Contribución ao proxecto - como podes envolverte na comunidade?
+## Contribution to the project – How can you get involved in the community? 
 
-Se quixeres participar para a mellora dos corpora de voz e texto, ou dos modelos que estamos desenvolvendo, só tes que pedir ser incluído na nosa comunidade e entrar en contacto con cada un/unha dos responsábeis dos proxectos de voz e texto que están a ser desenvolvidos. Es sempre benvido/a!
+If you would like to participate in the improvement of the speech and text corpora or the language models we are developing, you just have to request to join our community and get in touch with the person responsible for the speech or text projects we have under development. You are always welcome!
 
-## Recursos útiles do Proxecto Nós
+## Useful resources of the Nós project
 
-Para máis información podes ir á nosa páxina web: https://nos.gal/
+For more information, please check our website: https://nos.gal/
 
-## Agradecementos
-O "Proxecto Nós: O galego na sociedade e economía da intelixencia artificial" (2021-2023) foi posíbel grazas ao financiamento resultado do convenio 2021-CP080 entre a Xunta de Galicia e a Universidade de Santiago de Compostela, e ao Programa Investigo, dentro do Plan nacional de recuperación, transformación e resiliencia, no marco do Fondo Europeo de Recuperación (NextGenerationEU).
+## Acknowledgements 
+“The Nós project: Galician in the society and economy of Artificial Intelligence” (2021-2023) was possible thanks to the funding resulting from the agreement 2021-CP080 between the Xunta de Galicia and the University of Santiago de Compostela, and thanks to the Investigo program, within the National Recovery, Transformation and Resilience Plan, within the framework of the European Recovery Fund (NextGenerationEU).
