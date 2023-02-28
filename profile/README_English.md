@@ -28,4 +28,4 @@ If you would like to participate in the improvement of the speech and text corpo
 For more information, please check our website: https://nos.gal/
 
 ## Acknowledgements 
-“The Nós project: Galician in the society and economy of Artificial Intelligence” (2021-2023) is possible thanks to the funding resulting from the agreement 2021-CP080 between the Xunta de Galicia and the University of Santiago de Compostela, and thanks to the Investigo program, within the National Recovery, Transformation and Resilience Plan, within the framework of the European Recovery Fund (NextGenerationEU).
+“The Nós project: Galician in the society and economy of Artificial Intelligence” is possible thanks to the funding resulting from the agreement 2021-CP080 between the Xunta de Galicia and the University of Santiago de Compostela, and thanks to the Investigo program, within the National Recovery, Transformation and Resilience Plan, within the framework of the European Recovery Fund (NextGenerationEU).
