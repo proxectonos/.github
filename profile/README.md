@@ -23,9 +23,11 @@ Os modelos da linguaxe poden ser descargados baixo licenzas [MIT](https://fossa.
 
 Se quixeres participar para a mellora dos corpora de voz e texto, ou dos modelos que estamos desenvolvendo, só tes que pedir ser incluído na nosa comunidade e entrar en contacto con cada un/unha dos responsábeis dos proxectos de voz e texto que están a ser desenvolvidos. Es sempre benvido/a!
 
-## Recursos útiles do Proxecto Nós
+## Contacto e redes sociais
 
 Para máis información podes ir á nosa páxina web: https://nos.gal/
+Escribirnos a proxecto.nos@usc.gal
+Ou seguirnos nas redes sociais: (Twitter)[https://twitter.com/proxectoNos]
 
 ## Agradecementos
 O "Proxecto Nós: O galego na sociedade e economía da intelixencia artificial" é posíbel grazas ao financiamento resultado do convenio 2021-CP080 entre a Xunta de Galicia e a Universidade de Santiago de Compostela, e ao Programa Investigo, dentro do Plan nacional de recuperación, transformación e resiliencia, no marco do Fondo Europeo de Recuperación (NextGenerationEU).
