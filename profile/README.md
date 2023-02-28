@@ -31,4 +31,3 @@ Se quixeres participar para a mellora dos corpora de voz e texto, ou dos modelos
 
 ## Agradecementos
 O "Proxecto Nós: O galego na sociedade e economía da intelixencia artificial" é posíbel grazas ao financiamento resultado do convenio 2021-CP080 entre a Xunta de Galicia e a Universidade de Santiago de Compostela, e ao Programa Investigo, dentro do Plan nacional de recuperación, transformación e resiliencia, no marco do Fondo Europeo de Recuperación (NextGenerationEU).
-d
