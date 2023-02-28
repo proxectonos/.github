@@ -9,23 +9,25 @@ The resources developed by Nós are freely accessible by third parties. Thus, th
 ## Repositories
 
 Through this website of the Nós project you can access different repositories:
-+ [corpus](https://github.com/proxectonos/corpora): where all text and speech corpora in Galician, both monolingual and multilingual, are included.
-+ [language-models](https://github.com/proxectonos/language-models): where all downloadable language models for different Natural Language Processing applications are included.
-+ [demos](https://github.com/proxectonos/demos): here you can find websites with the demos of the best models developed by the Nós project team.
++ 📚 [Corpus](https://github.com/proxectonos/corpora): text and speech corpora in Galician, both monolingual and multilingual.
++ 🤗 [Language-models](https://github.com/proxectonos/language-models): downloadable language models for different Natural Language Processing applications.
++ 📱 [Demos](https://github.com/proxectonos/demos): websites with the demos of the best models developed by the Nós project team.
 
 ## Corpora and language models licenses
 
-Corpora can be downloaded under licenses: [Creative Commons 4.0](http://creativecommons.org/licenses/by/4.0) <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
++ Corpora can be downloaded under licenses: [Creative Commons 4.0](http://creativecommons.org/licenses/by/4.0) <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 
-Language models can be downloaded under [MIT](https://fossa.com/blog/open-source-licenses-101-mit-license/) licenses.
++ Language models can be downloaded under [MIT](https://fossa.com/blog/open-source-licenses-101-mit-license/) licenses.
 
 ## Contribution to the project – How can you get involved in the community? 
 
 If you would like to participate in the improvement of the speech and text corpora or the language models we are developing, you just have to request to join our community and get in touch with the person responsible for the speech or text projects we have under development. You are always welcome!
 
-## Useful resources of the Nós project
+## To keep up to date with the project, you can...
 
-For more information, please check our website: https://nos.gal/
++ 🌐 Check our website https://nos.gal/
++ 📧 Send an e-mail to proxecto.nos@usc.gal
++ 🐦 Follow the Nós project on [Twitter](https://twitter.com/proxectoNos)
 
 ## Acknowledgements 
 “The Nós project: Galician in the society and economy of Artificial Intelligence” is possible thanks to the funding resulting from the agreement 2021-CP080 between the Xunta de Galicia and the University of Santiago de Compostela, and thanks to the Investigo program, within the National Recovery, Transformation and Resilience Plan, within the framework of the European Recovery Fund (NextGenerationEU).
