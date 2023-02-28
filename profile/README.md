@@ -9,9 +9,9 @@ Os recursos desenvolvidos en Nós son de libre acceso por terceiros, o que vai p
 ## Repositorios 
 
 A partir desta páxina do Proxecto Nós podes acceder a diferentes repositorios:
-+ 📚 [Corpus](https://github.com/proxectonos/corpora): onde están incluídos todos os corpora monolingues e multilingues de fala e texto para galego.
-+ 🤗 [Language-models](https://github.com/proxectonos/language-models): onde están incluídos todos os modelos lingüísticos a seren descargados para distintas aplicacións de procesamento da linguaxe natural. 
-+ 📱 [Demos](https://github.com/proxectonos/demos): aquí podes acceder a páxinas web de demostración dos mellores modelos desenvolvidos polo equipo do Proxecto Nós.
++ 📚 [Corpus](https://github.com/proxectonos/corpora): corpora monolingues e multilingues de fala e texto para galego.
++ 🤗 [Language-models](https://github.com/proxectonos/language-models): modelos lingüísticos a seren descargados para distintas aplicacións de procesamento da linguaxe natural. 
++ 📱 [Demos](https://github.com/proxectonos/demos): páxinas web de demostración dos mellores modelos desenvolvidos polo equipo do Proxecto Nós.
 
 ## Licenzas de corpus e modelos da linguaxe
 
