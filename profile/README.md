@@ -1,3 +1,5 @@
+**English text [here](https://github.com/proxectonos/.github/blob/main/profile/README_English.md)**
+
 ## Proxecto Nós: o galego na sociedade e na economía da intelixencia artificial
 
 👋 O [Proxecto Nós](https://nos.gal/) está a xerar os recursos necesarios para colocar o galego na vangarda das tecnoloxías intelixentes, nomeadamente naquelas áreas relacionadas coas tecnoloxías lingüísticas e, de modo xeral, na sociedade e economía da intelixencia artificial. O Proxecto Nós é un proxecto da [Xunta de Galicia](https://www.xunta.gal/portada) cuxa execución foi encomendada á Universidade de Santiago de Compostela, a través de dúas entidades punteiras de investigación en intelixencia artificial e tecnoloxías da linguaxe: o [ILG](https://ilg.usc.es/) (Instituto da Lingua Galega) e o [CiTIUS](https://citius.gal/gl/) (Centro Singular de Investigación en Tecnoloxías Intelixentes). 
