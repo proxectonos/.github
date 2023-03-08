@@ -23,7 +23,7 @@ A partir desta páxina do Proxecto Nós podes acceder a diferentes repositorios:
 
 ## Contribución ao proxecto - como podes envolverte na comunidade?
 
-Se quixeres participar para a mellora dos corpus de voz e texto, ou dos modelos que estamos desenvolvendo, só tes que pedir ser incluído na nosa comunidade e entrar en contacto con cada un/unha dos responsábeis dos proxectos de voz e texto que están a ser desenvolvidos. Es sempre benvido/a!
+Se quixeres participar para a mellora dos corpus de voz e texto, ou dos modelos que estamos desenvolvendo, só tes que pedir ser incluído/a na nosa comunidade e entrar en contacto con cada un/unha dos responsábeis dos proxectos de voz e texto que están a ser desenvolvidos. Es sempre benvido/a!
 
 ## Para estar ao día do proxecto podes...
 
