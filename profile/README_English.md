@@ -9,7 +9,7 @@ The resources developed by Nós are freely accessible by third parties. Thus, th
 ## Repositories
 
 Through this website of the Nós project you can access different repositories:
-+ 📚 [Corpus](https://github.com/proxectonos/corpora): text and speech corpora in Galician, both monolingual and multilingual.
++ 📚 [Corpora](https://github.com/proxectonos/corpora): text and speech corpora in Galician, both monolingual and multilingual.
 + 🤗 [Language-models](https://github.com/proxectonos/language-models): downloadable language models for different Natural Language Processing applications.
 + 📱 [Demos](https://github.com/proxectonos/demos): websites with the demos of the best models developed by the Nós project team.
 
