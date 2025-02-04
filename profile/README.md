@@ -33,4 +33,5 @@ Se quixeres participar para a mellora dos corpus de voz e texto, ou dos modelos 
 
 ## Agradecementos
 Este proxecto con referencia 2022/TL22/00215336 está financiado polo Ministerio para a Transformación Dixital e da Función Pública e polo Plan de Recuperación, Transformación e Resiliencia - Financiado pola Unión Europea – NextGenerationEU.
+
 O "Proxecto Nós: O galego na sociedade e economía da intelixencia artificial" é posíbel grazas ao financiamento resultado do convenio 2021-CP080 entre a Xunta de Galicia e a Universidade de Santiago de Compostela, e ao Programa Investigo, dentro do Plan Nacional de Recuperación, Transformación e Resiliencia, no marco do Fondo Europeo de Recuperación (NextGenerationEU).
