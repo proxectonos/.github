@@ -29,7 +29,7 @@ Se quixeres participar para a mellora dos corpus de voz e texto, ou dos modelos 
 
 + 🌐 Visitar a nosa páxina web https://nos.gal/
 + 📧 Escribir ao proxecto.nos@usc.gal
-+ 🐦 Seguir o Proxecto Nós en [Bluesky](https://bsky.app/profile/nos.gal)
++ 🦋 Seguir o Proxecto Nós en [Bluesky](https://bsky.app/profile/nos.gal)
 
 ## Agradecementos
 Este proxecto con referencia 2022/TL22/00215336 está financiado polo Ministerio para a Transformación Dixital e da Función Pública e polo Plan de Recuperación, Transformación e Resiliencia - Financiado pola Unión Europea – NextGenerationEU.
