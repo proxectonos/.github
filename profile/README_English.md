@@ -27,7 +27,7 @@ If you would like to participate in the improvement of the speech and text corpo
 
 + 🌐 Check our website https://nos.gal/
 + 📧 Send an e-mail to proxecto.nos@usc.gal
-+ 🐦 Follow the Nós project on [Bluesky](https://bsky.app/profile/nos.gal)
++ 🦋 Follow the Nós project on [Bluesky](https://bsky.app/profile/nos.gal)
 
 ## Acknowledgements 
 This Project, with ref. 2022/TL22/00215336, is currently funded by the Spanish Ministry for Digital Transformation and Civil Service and the Recovery, Transformation, and Resilience Plan - Funded by the European Union - NextGenerationEU.
