@@ -17,7 +17,7 @@ Through this website of the Nós project you can access different repositories:
 
 + Corpora can be downloaded under licenses: [Creative Commons 4.0](http://creativecommons.org/licenses/by/4.0) <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 
-+ Language models can be downloaded under [MIT](https://fossa.com/blog/open-source-licenses-101-mit-license/) and [Apache-2.0]https://www.apache.org/licenses/LICENSE-2.0) licenses.
++ Language models can be downloaded under [MIT](https://fossa.com/blog/open-source-licenses-101-mit-license/) and [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0) licenses.
 
 ## Contribution to the project – How can you get involved in the community? 
 
