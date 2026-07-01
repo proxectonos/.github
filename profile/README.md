@@ -32,7 +32,7 @@ Se quixeres participar para a mellora dos corpus de voz e texto, ou dos modelos 
 + 🦋 Seguir o Proxecto Nós en [Bluesky](https://bsky.app/profile/nos.gal)
 
 ## Agradecementos
-Dentro do proxecto [Desarrollo de Modelos ALIA](https://alia.gob.es/), os resultados do Proxecto Nós están financiados polo Ministerio para a Transformación Dixital e da Función Pública e polo Plan de Recuperación, Transformación e Resiliencia – Financiado pola Unión Europea – NextGenerationEU.
+Dentro do proxecto [Desarrollo de Modelos ALIA](https://alia.gob.es/gal), os resultados do Proxecto Nós están financiados polo Ministerio para a Transformación Dixital e da Función Pública e polo Plan de Recuperación, Transformación e Resiliencia – Financiado pola Unión Europea – NextGenerationEU.
 
 Este proxecto con referencia 2022/TL22/00215336 está financiado polo Ministerio para a Transformación Dixital e da Función Pública e polo Plan de Recuperación, Transformación e Resiliencia - Financiado pola Unión Europea – NextGenerationEU, dentro do marco do [proxecto ILENIA](https://proyectoilenia.es/).
 
