@@ -30,6 +30,8 @@ If you would like to participate in the improvement of the speech and text corpo
 + 🦋 Follow the Nós project on [Bluesky](https://bsky.app/profile/nos.gal)
 
 ## Acknowledgements 
+Within the framework of the project [Desarrollo de Modelos ALIA](https://alia.gob.es/gal), the results of Proxecto Nós are funded by the Ministerio para la Transformación Digital y de la Función Pública - Funded by EU – NextGenerationEU.
+
 This Project, with ref. 2022/TL22/00215336, is currently funded by the Spanish Ministry for Digital Transformation and Civil Service and the Recovery, Transformation, and Resilience Plan - Funded by the European Union - NextGenerationEU within the framework of the [project ILENIA](https://proyectoilenia.es/).
 
 “The Nós project: Galician in the society and economy of Artificial Intelligence” is possible thanks to the funding resulting from the agreement 2021-CP080 between the Xunta de Galicia and the University of Santiago de Compostela, and thanks to the Investigo program, within the National Recovery, Transformation and Resilience Plan, within the framework of the European Recovery Fund (NextGenerationEU).
